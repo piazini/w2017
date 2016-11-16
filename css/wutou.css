@@ -1,3 +1,10 @@
 /*! index style */
+.main_1 {background-color:#ffa900; margin-bottom:20px;}
+.main_2 {-background-color:#f1f5f7;}
+.main_2_L {background:#3dc}
+.main_2_L h2.title {margin-top:0}
+.main_2_R { padding-left:0px; padding-right:0px; background:#987;}
+.main_2_R_title { padding:20px 20px; margin-top:0px; margin-bottom:0px; background: #34495E; color: #fff;}
+.main_2_R ul {margin-top:10px;}
 .media-right { display:table-cell; vertical-align:top;}
 .timg img {margin-top:5px; margin-bottom:10px; width:250px;}
